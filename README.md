@@ -11,7 +11,7 @@ I'm a Math student at Scuola Normale Superiore and University of Pisa with a pas
 
 ## 📌 Featured Projects
 - 🚀 **[Denoising Diffusion Probabilistic Models]([Project Link](https://github.com/MScespun/DDPM))** - A simple example of how Diffusion Processes can be used to generate data.
-- 🧠 **[Project Name](Project Link)** - Short description of the project.
+- 🧠 **[GANs]([Project Link](https://github.com/MScespun/GANs))** - An implementation of GANs on Mnist dataset.
 - 💡 **[Project Name](Project Link)** - Short description of the project.
 
 More projects on my [GitHub Repositories](https://github.com/MScespun).
