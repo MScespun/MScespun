@@ -10,7 +10,7 @@ I'm a Math student at Scuola Normale Superiore and University of Pisa with a pas
 
 
 ## 📌 Featured Projects
-- 🚀 **[Project Name](Project Link)** - Short description of the project.
+- 🚀 **[Denoising Diffusion Probabilistic Models]([Project Link](https://github.com/MScespun/DDPM))** - A simple example of how DDPM can be used to generate data.
 - 🧠 **[Project Name](Project Link)** - Short description of the project.
 - 💡 **[Project Name](Project Link)** - Short description of the project.
 
