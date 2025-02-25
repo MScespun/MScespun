@@ -1,6 +1,7 @@
 ## 👋 Hey there, I'm Matteo!
 
 🚀 **About Me**
+
 I'm a Math student at Scuola Normale Superiore and University of Pisa with a passion for numerical implementations. I love building innovative projects and exploring new technologies. Currently, I'm focusing on statistics, machine learning, and simulation of stochastic processes.
 
 📫 **Reach me at:** https://www.linkedin.com/in/matteo-scardala-149356326/
