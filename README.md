@@ -27,6 +27,4 @@ More projects on my [GitHub Repositories](https://github.com/MScespun).
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MScespun&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MScespun&layout=compact&theme=radical)
 
----
 
-⭐️ Don't forget to follow me for more cool projects!
