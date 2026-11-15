@@ -22,10 +22,9 @@
 
 ## 👋 About Me
 
-I'm a **Mathematics student at [Scuola Normale Superiore](https://www.sns.it/) and the [University of Pisa](https://www.unipi.it/)** with a passion for numerical implementations: I like taking a piece of theory and turning it into code that actually runs.
+I'm a **PhD student in Mathematics at Imperial College London, alumno of [Scuola Normale Superiore](https://www.sns.it/) and the [University of Pisa](https://www.unipi.it/)**.
 
-- 🔭 Currently focusing on **machine learning**, **stochastic processes** and **PDEs**
-- 🧮 Interested in finite element methods, generative models and quantitative finance
+- 🔭 Currently focusing on **machine learning**, **stochastic particle systems** and **Mean Field Games**
 - 🎓 Bachelor's thesis on **Denoising Diffusion Probabilistic Models** ([repo](https://github.com/MScespun/DDPM))
 - 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/matteo-scardala/)
 
