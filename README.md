@@ -69,7 +69,6 @@ Taken together, these observations contribute to a quantitative mathematical und
 | 🌫️ **[DDPM](https://github.com/MScespun/DDPM)** | *Bachelor's thesis project* on how diffusion processes can be used to generate data | `Python` `PyTorch` |
 | 🧠 **[GANs](https://github.com/MScespun/GANs)** | Generative Adversarial Networks trained on the MNIST dataset | `Python` |
 | 📉 **[Time Series: Greece](https://github.com/MScespun/TSGreece)** | Time series analysis of energy consumption in Greece | `Python` |
-| 📐 **[RegSci](https://github.com/MScespun/RegSci)** | <!-- TODO: short description --> Add a one-line description | `MATLAB` |
 
 ---
 
