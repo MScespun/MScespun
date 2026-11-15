@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Math+student+%40+SNS+%26+University+of+Pisa;Stochastic+processes+%E2%80%A2+PDEs+%E2%80%A2+ML;Turning+equations+into+working+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Math+student+%40+Imperial+College+London" alt="Typing SVG" />
   </a>
 </p>
 
@@ -100,10 +100,5 @@ Notes I've written while attending courses. Corrections and pull requests are we
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MScespun&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
----
-
-<p align="center">
-  <i>“The purpose of computing is insight, not numbers.” (Richard Hamming)</i>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
