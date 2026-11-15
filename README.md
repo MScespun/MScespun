@@ -60,6 +60,8 @@ Taken together, these observations contribute to a quantitative mathematical und
 > [![Slides](https://img.shields.io/badge/Defense-Slides-FFB000?style=flat-square&logo=googleslides&logoColor=white)](#)
 
 ---
+## 📄 Papers
+---
 
 ## 📌 Featured Projects
 
@@ -82,9 +84,8 @@ Notes I've written while attending courses. Corrections and pull requests are we
 |:-:|:--|:--|:-:|:-:|
 | 📈 | **Quantitative Finance** | Scuola Normale Superiore | 🇬🇧 | [PDF](#) |
 | 📝 | **Introduction to PDEs** | University of Pisa | 🇮🇹 | [PDF](#) |
-| 🎲 | **[Course name]** | [Institution] | 🇬🇧 | [PDF](#) |
-| 🔢 | **[Course name]** | [Institution] | 🇬🇧 | [PDF](#) |
-| ➕ | **[Course name]** | [Institution] | 🇮🇹 | [PDF](#) |
+| 🎲 | **Probability** | [Institution] | 🇬🇧 | [PDF](#) |
+| 🔢 | **Real Analysis** | [Institution] | 🇬🇧 | [PDF](#) |
 
 ---
 
