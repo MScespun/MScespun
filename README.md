@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Matteo%20Scardala&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mathematics%20%E2%80%A2%20Numerical%20Analysis%20%E2%80%A2%20Machine%20Learning&descAlignY=58&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Matteo%20Scardala&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mathematics%20%E2%80%A2%20Machine%20Learning&descAlignY=58&descSize=18" alt="header"/>
 </p>
 
 <p align="center">
