@@ -47,12 +47,13 @@ I'm a **PhD student in Mathematics at Imperial College London, alumno of [Scuola
 
 ## 🎓 Master's Thesis
 
-<!-- TODO: fill in the details below and replace the # links with your real ones -->
-
-> ### 📘 *[Thesis title goes here]*
-> **Supervisor(s):** Prof. Name Surname · **Institution:** Scuola Normale Superiore / University of Pisa · **Year:** 2026
+> ### 📘 *[Critical Exponents for Stochastic Residual Stream Dynamics in Deep Transformers]*
 >
-> A two- or three-line abstract: the problem you studied, the method you used, and the main result.
+> Transformers have become one of the central architectures in modern deep learning, largely due to the self-attention mechanism and its ability to model long-range interactions between tokens. In recent mathematical approaches, the propagation of information through the architecture of a deep Transformer is interpreted as an interacting particle system on the unit sphere, where the depth of the network plays the role of time. In particular, Agazzi et al. (2026) and Koubbi et al. (2026), identify a stochastic scaling limit where noise arises intrinsically from the random initialization of parameters in the model. In this regime, the limiting dynamics are described by a system of stochastic differential equations on the d-dimensional unit sphere, in which attention acts as an interacting term and the MLP component produces an isotropic common noise acting jointly on all particles.
+This thesis studies the long-time behavior of these stochastic systems, with particular attention to the critical exponents and threshold constants that arise in the analysis of their asymptotic dynamics. We investigate the role of such quantities in clustering phenomena, which have been observed to be typical of these models. Furthermore, we examine to what extent Lyapunov exponents, often used as indicators of synchronization in stochastic flows, appropriately characterize this behavior. Since the interpretation of such exponents depends on the ergodic structure of the system, we also investigate its invariant measures and ergodic properties.
+In the models considered here, the relation between clustering and Lyapunov exponents is more delicate than in the classical theory of stochastic flows on a single sphere, because the dynamics take place on a product space and involve interactions between several particles. We address this point by discussing the relation between synchronization,
+invariant measures and Lyapunov exponents for the models at hand.
+Taken together, these observations contribute to a quantitative mathematical understanding of information propagation in deep Transformer models and suggest that regimes close to an “edge of synchronization” may play an important role in balancing clustering, stability and expressive dynamics in these architectures.
 >
 > [![PDF](https://img.shields.io/badge/Read-PDF-B31B1B?style=flat-square&logo=adobeacrobatreader&logoColor=white)](#)
 > [![Code](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github)](#)
